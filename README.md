@@ -4,4 +4,4 @@ Instructor: [Andrew Ng](https://www.andrewng.org/)
 
 ## Introduction
 
-This repository contains my project on [Car detection for Autonomous Driving]()using the YOLO Algorithm
+This repository contains my project on [Car detection for Autonomous Driving](https://github.com/DaudLateef/Car-Detection-for-Autonomous-Driving/blob/main/Auto/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb) using the [YOLO Algorithm](https://scholarphi.semanticscholar.org/?file=https://arxiv.org/pdf/1506.02640v5.pdf)
