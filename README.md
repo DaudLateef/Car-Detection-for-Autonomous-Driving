@@ -13,4 +13,4 @@ This repository contains my project on [Car detection for Autonomous Driving](ht
 
 ## Certification
 
-![Certification]()
+![Certification](https://github.com/DaudLateef/Car-Detection-for-Autonomous-Driving/blob/main/Screenshot%202021-11-09%20at%2016.24.14.png)
